@@ -17,6 +17,10 @@ h1{
     width: 100%;
 }
 
+ul{
+    list-style-type: none;
+}
+
 #email-container{
     display: flex;
     flex-wrap: wrap;
