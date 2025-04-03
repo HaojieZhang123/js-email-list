@@ -12,3 +12,6 @@ const generateMail = (string) => {
     }
 
 }
+
+// chiamata funzione
+generateMail(requestTarget);
